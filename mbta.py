@@ -4,15 +4,6 @@ DS2000
 Homework 5
 March 4, 2022
 mbta.py
-    
-    Your job is to fill in the details of the four functions at the top.
-    
-    Make sure you follow the specs as written, and then when
-    you run the code it'll tell you some stuff about T ridership
-    and make a couple of plots.
-    
-    Please do not modify any code outside of those four functions!
-    
 '''
 
 import csv
@@ -23,12 +14,6 @@ LINE_COL = 3
 TOTAL_ON = 12
 TOTAL_OFF = 13
 TIME_OF_DAY = 8
-
-############################################################
-#
-# For HW5 -- fill in the functions below!
-#
-############################################################
 
 def read_file(filename):
     ''' Function: read_file
