@@ -1,7 +1,5 @@
 '''
 Jethro Ronald Lee
-DS2000
-Homework 5
 March 4, 2022
 mbta.py
 '''
